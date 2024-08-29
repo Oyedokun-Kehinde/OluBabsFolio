@@ -1,1 +1,1 @@
-This is a one-page portfolio website for a junior data analyst based in Akure, Nigeria.
+This is a portfolio website for Babatunde Isaac (OluBabs). He is a junior data analyst based in Akure, Ondo State of Nigeria.
